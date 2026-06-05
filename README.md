@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi Jadhav 👋
 
-<!--
-**vaishnavi-jadhav-analyst/vaishnavi-jadhav-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | SQL • Power BI • Python • Excel • Tableau
 
-Here are some ideas to get you started:
+📍 Pune, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Data Analyst with hands-on experience in data cleaning, analysis,
+and dashboard creation. Passionate about turning raw data into
+meaningful insights that drive business decisions.
+
+## 🛠️ Skills
+- **Database:** SQL (MySQL, Joins, Subqueries, Window Functions)
+- **Visualization:** Power BI, Tableau, Excel Charts
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Analytics:** EDA, Statistical Analysis, Data Wrangling, ETL
+
+## 📂 Featured Projects
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Blinkit Sales Dashboard](#) | Power BI, Excel, SQL | Analyzed 10K+ sales records, built interactive KPI dashboard |
+| [Coffee Shop Sales Analysis](#) | Excel | Analyzed 3K+ orders, identified peak hours & top products |
+| [Vehicle Parking System](#) | Python, HTML, CSS | Web-based parking management system |
+
+## 📜 Certifications
+- Data Analyst Certification – Fortune Cloud Technologies
+- NCC 'C' Certificate – National Cadet Corps, Govt. of India
+
+## 📫 Connect with Me
+- LinkedIn: linkedin.com/in/vaishnavi-vj
+- Email: vcjadhav1607@gmail.com
